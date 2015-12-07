@@ -1,0 +1,6 @@
+C:\Users\Jessie\Desktop\programs\CMPE1700\Lab3_CMPE1700\Lab3_CMPE1700\bin\Debug\Lab3_CMPE1700.exe.config
+C:\Users\Jessie\Desktop\programs\CMPE1700\Lab3_CMPE1700\Lab3_CMPE1700\bin\Debug\Lab3_CMPE1700.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\Lab3_CMPE1700\Lab3_CMPE1700\bin\Debug\Lab3_CMPE1700.pdb
+C:\Users\Jessie\Desktop\programs\CMPE1700\Lab3_CMPE1700\Lab3_CMPE1700\obj\Debug\Lab3_CMPE1700.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Desktop\programs\CMPE1700\Lab3_CMPE1700\Lab3_CMPE1700\obj\Debug\Lab3_CMPE1700.exe
+C:\Users\Jessie\Desktop\programs\CMPE1700\Lab3_CMPE1700\Lab3_CMPE1700\obj\Debug\Lab3_CMPE1700.pdb
